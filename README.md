@@ -24,9 +24,9 @@ This is a C++ implementation of a mathematical model describing the relationship
 
 The bash script `compile_and_execute.sh` will compile the file `pgtype_experiment.cpp`using *g++*. The **Eigen** library is a requirement of this implementation.
 The script will also run the compiled executable, which in the script's configuration will run 20 isolated experiments, with 8000 generations each.
-Only the final mean values of phenotypes and fitnees will be saved after each experiment.
+Only the final mean values of phenotypes and fitness will be saved after each experiment.
 
-This configuration can be changed, you can run `pgtype.exe -help` command to learn which configurations you can change at execution without having to change the code itself and later recompiling it.
+This configuration can be changed, you can run a `pgtype.exe -help` command to learn which configurations you can change at execution without having to change the code itself and later recompiling it.
 
 ## References
 
