@@ -4,8 +4,7 @@ This is a C++ implementation of a mathematical model describing the relationship
 
 - The model was presented by
     - Laarits, T., P. Bordalo, and B. Lemos. "Genes under weaker stabilizing selection increase network evolvability and rapid regulatory adaptation to an environmental shift." Journal of Evolutionary Biology 29.8 (2016): 1602-1616.
-
-    available at: https://doi.org/10.1111/jeb.12897
+    Available at: https://doi.org/10.1111/jeb.12897
 
 ## A Brief Model Description
 
@@ -32,8 +31,8 @@ This configuration can be changed, you can run `pgtype.exe -help` command to lea
 ## References
 
 - Laarits, T., P. Bordalo, and B. Lemos. "Genes under weaker stabilizing selection increase network evolvability and rapid regulatory adaptation to an environmental shift." Journal of Evolutionary Biology 29.8 (2016): 1602-1616.
-    - available at: https://doi.org/10.1111/jeb.12897
+    - Available at: https://doi.org/10.1111/jeb.12897
 
 - Guennebaud, Gaël, and Jacob, Benoit and others. "Eigen v3" (2010)
-    - available at: http://eigen.tuxfamily.org 
+    - Available at: http://eigen.tuxfamily.org 
 
