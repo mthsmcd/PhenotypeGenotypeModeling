@@ -62,8 +62,6 @@ private:
     string dist_config = "normal";
 
     //normal distribution parameters
-    //double mean = 0.0;
-    //double std_dev = 1.0;
     double mean;
     double std_dev;
 
@@ -173,7 +171,6 @@ int main(int argc, char const *argv[])
         {
             experiment.setDistribution(dist, mean, std_dev);
             experiment.setCalculateCondition(cond);
-            //experiment.setSaveBool(save_bool);
             experiment.setSavingFrequency(save_bool, save_freq);
         }
         string suffix = to_string(r);
