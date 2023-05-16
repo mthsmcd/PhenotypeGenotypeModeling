@@ -33,3 +33,6 @@
 
 #mathematica notebooks
 *.nb
+
+#vscode config
+.vscode/

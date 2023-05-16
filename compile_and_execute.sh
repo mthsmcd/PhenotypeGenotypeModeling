@@ -12,7 +12,7 @@ save_freq=1000
 echo -e "\n\nThis script will compile pgtype_experiment.cpp and run its executable pgtype.exe"
 
 echo -e "\nCompiling"
-g++ -I /usr/include/eigen3/ -I ./headers/ pgtype_experiment.cpp -o pgtype.exe 
+g++ -I /usr/include/eigen3/ -I ./headers/pgtype_experiment.cpp -o pgtype.exe 
 
 echo -e "Compilation completed!"
 
